@@ -17,20 +17,16 @@ FediShield can include:
 - **Community submissions:** Users can suggest domains and accounts for consideration.
 - **Documentation:** Information about entries and the reasons provided for their submission, where available.
 
-## How to request an addition
+### Requesting a Domain Addition
 
-Have a domain or account you think should be included? You can submit a request for the community to review.
+If you want to suggest a domain for FediShield, please use the **GitHub Discussions** page.
 
-1. Visit the [FediShield repository](https://github.com/zoeyfediverse/fedishield).
-2. Open the **Issues** tab.
-3. Create a new issue describing the domain or account you want to suggest.
-4. Include the relevant URL, your reason for the request, and any supporting evidence you can provide.
-5. Wait for the request to be reviewed.
+1. Visit the [FediShield Discussions](https://github.com/zoeyfediverse/fedishield/discussions) page.
+2. Start a new discussion explaining which domain you think should be added.
+3. Include any relevant links, evidence, or context to help explain your request.
+4. Wait for the request to be reviewed. Submitting a request does not guarantee that the domain will be added.
 
-Please be specific about whether your request concerns an entire domain or an individual account. Submitting a request does not guarantee that it will be accepted.
-
-*If GitHub Issues are unavailable, please check the repository for an alternative submission method.*
-
+Please keep discussions respectful and focused on the domain being reported. Avoid posting private information, making unsupported accusations, or using the blocklist to target people over personal disagreements.
 ## Submission guidelines
 
 To keep FediShield useful and fair to contributors and the people being reported, please follow these guidelines:
